@@ -2,7 +2,7 @@ body{
   background-color: rgb(73, 95, 104);
  display: grid;
 place-content: center; 
-min-height: 30dvh
+
 }
 
 header{
