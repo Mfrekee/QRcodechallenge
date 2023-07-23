@@ -6,7 +6,7 @@ place-content: center;
 }
 
 header{
-  font-size: 1vw;
+  font-size: 1.3vw;
   text-align: center;
 color: whitesmoke;
 }
@@ -20,7 +20,7 @@ main{
 text-align: center;
 background-color: white;
 border-radius: 4%;
-padding-bottom: 0.1rem;
+padding: 0.1rem 0.5rem;
 margin: 2rem 25rem;
 font-family: 'Josefin Sans', sans-serif;
 }
