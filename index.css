@@ -6,14 +6,13 @@ place-content: center;
 }
 
 header{
-  font-size: 0.5vh;
+  font-size: 2vh;
   text-align: center;
 color: whitesmoke;
 }
 
 .pic{
 margin-top: 0.5rem;
-  width: 86px 54px ;
   border-radius: 5%;
 }
 
