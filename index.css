@@ -1,37 +1,41 @@
 body{
   background-color: rgb(73, 95, 104);
+ display: grid;
+place-content: center; 
+min-height: 30dvh
 }
 
-.small{
-  font-size: 12px;
+header{
+  font-size: 0.8rem;
   text-align: center;
+color: whitesmoke;
 }
 
 .pic{
-  padding-top: 8px;
-  border-radius: 8%;
-
+margin-top: 0.5rem;
+  width: 86px 54px ;
+  border-radius: 5%;
 }
 
-.vid{
+main{
 text-align: center;
 background-color: white;
-border-radius: 3%;
-padding-bottom: 14px;
-margin: 51px 400px;
+border-radius: 4%;
+padding-bottom: 0.1rem;
+margin: 2rem 25rem;
 font-family: 'Josefin Sans', sans-serif;
 }
 
-.b{
-  color: grey;
-  font-size: 9px;
+p{
+ color: gray;
+  font-size: 0.5rem;
 }
 
 a:hover{
   color: yellowgreen;
 }
 
-#bold{
-  font-size: 14px;
- 
+h6{
+  font-size: 1rem; 
+  margin: auto;
 }
