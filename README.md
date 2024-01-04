@@ -1,3 +1,0 @@
-# QRcodechallenge.github.io
-QR code challenge from frontendmentor.io
-Will add more in coming projects...
